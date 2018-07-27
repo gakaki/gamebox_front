@@ -1,4 +1,23 @@
 module.exports = [
+  //首页
+  {
+    path: '/pages/home/list',
+    name: 'Home',
+    config: {
+      enablePullDownRefresh: true,
+      navigationBarTitleText: ''
+    }
+  },
+  //我的
+  {
+    path: '/pages/my/my',
+    name: 'My',
+    config: {
+      enablePullDownRefresh: true,
+      navigationBarTitleText: '我的'
+    }
+  },
+
   {
     path: '/pages/news/list',
     name: 'NewsList',

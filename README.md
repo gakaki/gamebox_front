@@ -1,6 +1,6 @@
 # ithome-lite ([WEB 版](https://github.com/F-loat/ithome-lite/tree/web-version))
 
-> IT之家小程序版客户端
+> 游戏中心小程序客户端
 
 
 ## 相关依赖
@@ -96,3 +96,13 @@ const app = new Vue({
 ## 相关文章
 
 * [Mpvue 小程序转 Web 实践总结](https://juejin.im/post/5ab84a33f265da239c7b56bd)
+
+
+### tips
+1 微信小程序下方的tabbar居然不能使用在线图片失望
+2 图片做webp和gunutzi的极致优化 然后必要的图片记得全都上传服务器哦
+
+
+
+### TODO
+1 tabbar 图片大小有待优化
