@@ -2,21 +2,16 @@
 
 .container
   .header
-    .welcome
-      欢迎 {{title}}
+    .welcome 欢迎 {{title}}
     .items
       .item
-        .item_diamand
-          999
-        .item_red_packet
-          999
+        .item_diamand 999
+        .item_red_packet 999
   .line
-
   .category_games
     .category_game
       .title
         .title
-
         .img
 
 

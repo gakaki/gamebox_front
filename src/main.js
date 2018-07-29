@@ -46,24 +46,24 @@ export default {
           selectedIconPath: 'static/assets/my.png'
         },
 
-        // {
-        //   pagePath: 'pages/home/list',
-        //   text: '首页',
-        //   iconPath: 'static/assets/news.png',
-        //   selectedIconPath: 'static/assets/news-active.png'
-        // },
-        // {
-        //   pagePath: 'pages/news/list',
-        //   text: '资讯',
-        //   iconPath: 'static/assets/news.png',
-        //   selectedIconPath: 'static/assets/news-active.png'
-        // },
-        // {
-        //   pagePath: 'pages/quanzi/list',
-        //   text: '圈子',
-        //   iconPath: 'static/assets/quanzi.png',
-        //   selectedIconPath: 'static/assets/quanzi-active.png'
-        // }
+        {
+          pagePath: 'pages/home/list',
+          text: '首页',
+          iconPath: 'static/assets/news.png',
+          selectedIconPath: 'static/assets/news-active.png'
+        },
+        {
+          pagePath: 'pages/news/list',
+          text: '资讯',
+          iconPath: 'static/assets/news.png',
+          selectedIconPath: 'static/assets/news-active.png'
+        },
+        {
+          pagePath: 'pages/quanzi/list',
+          text: '圈子',
+          iconPath: 'static/assets/quanzi.png',
+          selectedIconPath: 'static/assets/quanzi-active.png'
+        }
 
       ]
     }

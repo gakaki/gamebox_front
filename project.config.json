@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wx867394dd223f7f6e",
-	"projectname": "ithome",
+	"projectname": "TAEST1123",
 	"condition": {
 		"search": {
 			"current": -1,
